@@ -4,3 +4,5 @@
 [16:23:52] <Person 1> Oh wait, I was hiding.
 [16:24:45] <Person 2> Person 1: You rolled a 1 on your stealth check.
 %
+[Person 1] someone needs toilet paper access revoked [Link to a users edits to talkpage]
+%
